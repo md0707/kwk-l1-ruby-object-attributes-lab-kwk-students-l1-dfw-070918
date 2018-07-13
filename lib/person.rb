@@ -1,2 +1,7 @@
 class Person
-  def intalize
+  def initalize(name, job)
+    @name = name
+    @job = job
+  end
+  
+  def 
